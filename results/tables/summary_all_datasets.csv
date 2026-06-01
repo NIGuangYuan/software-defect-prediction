@@ -1,0 +1,4 @@
+﻿数据集,最佳模型,Accuracy,Precision,Recall,F1-Score,MCC,ROC-AUC
+JM1,SVM,0.6876,0.3685,0.5458,0.44,0.2432,0.6952
+KC1,Logistic Regression,0.6593,0.384,0.5053,0.4364,0.2026,0.6334
+PC1,Random Forest,0.8815,0.3243,0.5714,0.4138,0.371,0.8476
